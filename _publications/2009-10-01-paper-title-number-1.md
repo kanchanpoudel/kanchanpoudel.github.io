@@ -21,8 +21,13 @@ on the basis of their content.
 Recommended citation: 
 
 @article{acharya2022automatic,
+<br>
   title={AUTOMATIC SPEECH RECOGNITION AND CLASSIFICATION OF NEPALI SPEECH},
-  author={Acharya, Aayush and Poudel, Kanchan and Mishra, Pranab and Bhandari, Prasiddha and Joshi, Basanta and Khanal, Bishesh},
-  year={2022},
+  <br>
+  author={Acharya, Aayush and Poudel, Kanchan and Mishra, Pranab and Bhandari, Prasiddha
+  <br> 
+  and Joshi, Basanta and Khanal, Bishesh}, year={2022},
+  <br>
   publisher={IOE Pulchowk Campus}
+  <br>
 }
